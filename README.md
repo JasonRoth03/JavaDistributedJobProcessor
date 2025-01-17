@@ -1,4 +1,3 @@
-# JavaDistributedJobProcessor
 # Java Distributed Job Processor
 
 A distributed systems project implementing a fault-tolerant Java code execution cluster, developed as part of Introduction to Distributed Systems coursework.
